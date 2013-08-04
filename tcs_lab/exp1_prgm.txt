@@ -1,0 +1,28 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int i,ip[30],l;
+int istate=0,fstate=2;
+int mat[3][2]={0,1,2,1,2,1};
+int cstate=0;
+cout<<"enter the no of string:";
+cin>>l;
+for(i=0;i<l;i++)
+{
+cin>>ip[i];
+}
+cstate=istate;
+for(i=0;i<l;i++)
+{
+
+  cstate=mat[cstate][ip[i]];
+
+}
+cout<<"\n\n";
+if (cstate==fstate)
+  cout<<"String is valid";
+else
+  cout<<"String is invalid";
+ getch();
+}

@@ -1,0 +1,58 @@
+AIM : To study different hardware componemts.
+
+
+GATEWAY:
+
+In telecommunications, the term gateway has the following meaning:
+In a communications network, a network node equipped for interfacing with another network that uses different protocols. 
+A gateway may contain devices such as protocol translators, impedance matching devices, rate converters, fault isolators, or signal translators as necessary to provide system interoperability. It also requires the establishment of mutually acceptable administrative procedures between both networks.
+A protocol translation/mapping gateway interconnects networks with different network protocol technologies by performing the required protocol conversions.
+Loosely, a computer or computer program configured to perform the tasks of a gateway. For a specific case, see default gateway.
+Gateways, also called protocol converters, can operate at any network layer. The activities of a gateway are more complex than that of the router or switch as it communicates using more than one protocol.
+
+
+ROUTER:  
+
+A router is a device that forwards data packets between computer networks, creating an overlay internetwork. A router is connected to two or more data lines from different networks. When a data packet comes in one of the lines, the router reads the address information in the packet to determine its ultimate destination. Then, using information in its routing table or routing policy, it directs the packet to the next network on its journey. Routers perform the "traffic directing" functions on the Internet. A data packet is typically forwarded from one router to another through the networks that constitute the internetwork until it reaches its destination node.
+The most familiar type of routers are home and small office routers that simply pass data, such as web pages, email, IM, and videos between the home computers and the Internet. An example of a router would be the owner's cable or DSL modem, which connects to the Internet through an ISP. More sophisticated routers, such as enterprise routers, connect large business or ISP networks up to the powerful core routers that forward data at high speed along the optical fiber lines of the Internet backbone. Though routers are typically dedicated hardware devices, use of software-based routers has grown increasingly common.
+
+BRIDGE:
+
+A bridge device filters data traffic at a network boundary. Bridges reduce the amount of traffic on a LAN by dividing it into two segments. 
+Bridges operate at the data link layer (Layer 2) of the OSI model. Bridges inspect incoming traffic and decide whether to forward or discard it. An Ethernet bridge, for example, inspects each incoming Ethernet frame - including the source and destination MAC addresses, and sometimes the frame size - in making individual forwarding decisions. 
+Bridges serve a similar function as switches, that also operate at Layer 2. Traditional bridges, though, support one network boundary, whereas switches usually offer four or more hardware ports. Switches are sometimes called "multi-port bridges" for this reason.
+
+HUB:
+
+An Ethernet hub, active hub, network hub, repeater hub, multiport repeater or hub is a device for connecting multiple Ethernet devices together and making them act as a single network segment. It has multiple input/output (I/O) ports, in which a signal introduced at the input of any port appears at the output of every port except the original incoming. A hub works at the physical layer (layer 1) of the OSI model. The device is a form of multiport repeater. Repeater hubs also participate in collision detection, forwarding a jam signal to all ports if it detects a collision.
+Some hubs may also come with a BNC and/or Attachment Unit Interface (AUI) connector to allow connection to legacy 10BASE2 or 10BASE5 network segments. The availability of low-priced network switches has largely rendered hubs obsolete but they are still seen in 20th century installations and more specialized applications.
+
+
+SWITCH:
+
+A network switch is a small hardware device that joins multiple computers together within one local area network (LAN). Technically, network switches operate at layer two (Data Link Layer) of the OSI model. 
+Network switches appear nearly identical to network hubs, but a switch generally contains more intelligence (and a slightly higher price tag) than a hub. Unlike hubs, network switches are capable of inspecting data packets as they are received, determining the source and destination device of each packet, and forwarding them appropriately. By delivering messages only to the connected device intended, a network switch conserves network bandwidth and offers generally better performance than a hub. 
+Different models of network switches support differing numbers of connected devices. Most consumer-grade network switches provide either four or eight connections for Ethernet devices. Switches can be connected to each other, a so-called daisy chaining method to add progressively larger number of devices to a LAN.
+
+CABLES:
+
+A cable is most often two or more wires running side by side and bonded, twisted, or braided together to form a single assembly, but can also refer to a heavy strong rope. In mechanics, cables, otherwise known as wire ropes, are used for lifting, hauling, and towing or conveying force through tension. In electrical engineering cables are used to carry electric currents. An optical cable contains one or more optical fibers in a protective jacket that supports the fibers.
+Electric cables discussed here are mainly meant for installation in buildings and industrial sites. For power transmission at distances greater than a few kilometres see high-voltage cable, power cables, and HVDC.
+
+SERVER :
+
+A server is a system (software and suitable computer hardware) that responds to requests across a computer network to provide, or help to provide, a network service. Servers can be run on a dedicated computer, which is also often referred to as "the server", but many networked computers are capable of hosting servers. In many cases, a computer can provide several services and have several servers running.
+Servers operate within a client-server architecture, servers are computer programs running to serve the requests of other programs, the clients. Thus, the server performs some task on behalf of clients. The clients typically connect to the server through the network but may run on the same computer.systems use this client / server networking model including Web sites and email services. An alternative model, peer-to-peer networking enables all computers to act as either a server or client as needed.
+
+REPEATERS:
+
+The term "repeater" originated with telegraphy in the 19th century, and referred to an electromechanical device used to regenerate telegraph signals.[1] Use of the term has continued in telephony and data communications.
+In telecommunication, the term repeater has the following standardized meanings:
+1.An analog device that amplifies an input signal regardless of its nature (analog or digital).
+2.A digital device that amplifies, reshapes, retimes, or performs a combination of any of these functions on a digital input signal for retransmission. A repeater that includes the retiming function is also known as a regenerator[2]
+In computer networking, because repeaters work with the actual physical signal, and do not attempt to interpret the data being transmitted, they operate on the physical layer, the first layer of the OSI model.
+
+
+
+
+
