@@ -1,4 +1,7 @@
 collegenotes
 ============
 
-college notes and printouts :P
+Xavier Institute of Engineering - Mahim
+SEM - V Practical Printouts and notes.
+
+
