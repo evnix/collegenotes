@@ -1,7 +1,7 @@
 collegenotes
 ============
 
-Xavier Institute of Engineering - Mahim
-SEM - V Practical Printouts and notes.
+Xavier Institute of Engineering - Mahim,
+SEM - V Computer Engineering Practical Printouts and notes.
 
 
